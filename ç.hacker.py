@@ -17,7 +17,7 @@ print("""
 os.system(" figlet Hacker  ")
 giris=input("lütfen işlemno giriniz: ")
 if giris=="1":
-        os.system("clear")          //ç.hackere ôzel
+        os.system("clear")          
 os.system("figlet hack TOOL ")
 os.system("clear")
 os.system("figlet HACK TOOL")
@@ -33,4 +33,3 @@ print("işlem devam ediyor lûtfen bekleyiniz")
 os.system("figlet start")
 os.system("pkg install Hollywood")
 
-start/clear/sh/python/ç.hacker.py/////
