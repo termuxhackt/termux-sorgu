@@ -1,4 +1,4 @@
-GNU nano 6.0                    ls.py                     Modified
+                 
 #!/user/bin/evn python
 
 import os
@@ -12,7 +12,7 @@ print(" hoşgeldin  ç.hacker ben hazırım!!")
 os.system(" figlet Hacker  ")
 print("""
 1)// TC SORGU
-2)// hakımızda                ###@@@@
+2)// hakımızda                
 """)
 os.system(" figlet Hacker  ")
 giris=input("lütfen işlemno giriniz: ")
