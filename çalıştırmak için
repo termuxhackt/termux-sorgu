@@ -1,8 +1,0 @@
-pkg install git
-git clone https://github.com/termuxhackt/termux.sh/new/main
-ls
-cd termux.sh
-ls
-chmod +x *
-ls
-bash ç.hacker.sh
