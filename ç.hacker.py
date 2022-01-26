@@ -32,4 +32,5 @@ if giris=="2":
 print("işlem devam ediyor lûtfen bekleyiniz")
 os.system("figlet start")
 os.system("pkg install Hollywood")
+os.system("hollywood")
 
